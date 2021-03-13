@@ -4,24 +4,22 @@ services:
   php-fpm:
     container_name: php-fpm-dev
     build:
-      context: .
-      dockerfile: df-php.dockerfile
+      context: ./php
     tty: true
     volumes:
-      - ./php/app:/usr/src/app
+      - ./src:/usr/src
       - ./php/php.ini:/usr/local/etc/php/php.ini
       - ./php/log:/var/log
 
   nginx:
     container_name: nginx-dev
     build:
-      context: .
-      dockerfile: df-nginx.dockerfile
+      context: ./nginx
     depends_on:
       - php-fpm
     tty: true
     volumes:
-      - ./php/app:/usr/share/nginx/html
+      - ./src:/usr/share/nginx/html
       - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf
     ports:
       - 10902:80

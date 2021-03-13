@@ -1,6 +1,6 @@
 FROM php:8.0.1-fpm-alpine
 
-WORKDIR /usr/src/app
+WORKDIR /usr/src
 
 RUN apk --no-cache update \
   && apk add autoconf build-base \
