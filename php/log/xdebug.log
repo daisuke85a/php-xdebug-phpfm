@@ -1,0 +1,225 @@
+[17] Log opened at 2021-03-13 01:30:49.282051
+[17] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[17] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[17] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[17] Log closed at 2021-03-13 01:30:49.366575
+
+[25] Log opened at 2021-03-13 01:31:10.748822
+[25] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[25] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[25] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[25] Log closed at 2021-03-13 01:31:10.825541
+
+[34] Log opened at 2021-03-13 01:31:21.208060
+[34] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[34] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[34] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[34] Log closed at 2021-03-13 01:31:21.282085
+
+[16] Log opened at 2021-03-13 01:35:44.056560
+[16] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[16] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[16] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[16] Log closed at 2021-03-13 01:35:45.925575
+
+[41] Log opened at 2021-03-13 01:36:27.233075
+[41] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[41] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[41] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[59] Log opened at 2021-03-13 01:36:29.210676
+[59] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[59] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[59] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[59] Log closed at 2021-03-13 01:36:29.226048
+
+[380] Log opened at 2021-03-13 01:37:43.724370
+[380] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[380] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[380] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[380] Log closed at 2021-03-13 01:37:45.293073
+
+[384] Log opened at 2021-03-13 01:37:46.775026
+[384] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[384] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[384] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[384] Log closed at 2021-03-13 01:37:47.739098
+
+[41] Log closed at 2021-03-13 01:37:47.890613
+
+[390] Log opened at 2021-03-13 01:39:09.135609
+[390] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[390] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[390] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[390] Log closed at 2021-03-13 01:39:09.672689
+
+[394] Log opened at 2021-03-13 01:39:16.337719
+[394] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[394] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[394] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[399] Log opened at 2021-03-13 01:40:19.198912
+[399] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[399] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[399] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[404] Log opened at 2021-03-13 01:40:49.481616
+[404] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[404] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[404] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[16] Log opened at 2021-03-13 01:44:36.001253
+[16] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[16] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[16] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[21] Log opened at 2021-03-13 01:45:08.377021
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[16] Log opened at 2021-03-13 01:45:51.549739
+[16] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[16] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[16] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[21] Log opened at 2021-03-13 01:47:39.741116
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[25] Log opened at 2021-03-13 01:47:49.739350
+[25] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[25] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[25] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[25] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[25] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[25] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[25] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[25] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[25] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[25] Log closed at 2021-03-13 01:47:50.360277
+
+[25] Log opened at 2021-03-13 01:47:50.409064
+[25] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[25] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[25] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[25] Log closed at 2021-03-13 01:47:50.418850
+
+[9] Log opened at 2021-03-13 01:50:59.667975
+[9] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[9] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[9] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[20] Log opened at 2021-03-13 01:51:18.978415
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[20] Log closed at 2021-03-13 01:51:20.030595
+
+[9] Log closed at 2021-03-13 01:51:20.122582
+
+[1] Log opened at 2021-03-13 01:51:20.140646
+[1] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[1] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[1] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[9] Log opened at 2021-03-13 01:52:07.943283
+[9] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[9] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[9] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[20] Log opened at 2021-03-13 01:52:25.353802
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[20] Log closed at 2021-03-13 01:52:26.330342
+
+[9] Log closed at 2021-03-13 01:52:26.414818
+
+[1] Log opened at 2021-03-13 01:52:26.395105
+[1] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[1] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[1] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[33] Log opened at 2021-03-13 01:52:30.124957
+[33] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[33] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[33] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[33] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[33] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[33] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[33] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[33] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[33] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[33] Log closed at 2021-03-13 01:52:30.649839
+
+[33] Log opened at 2021-03-13 01:52:30.865297
+[33] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[33] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[33] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[33] Log closed at 2021-03-13 01:52:30.873115
+
+[33] Log opened at 2021-03-13 01:53:00.082783
+[33] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[33] [Step Debug] INFO: Connected to debugging client: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port). :-)
+[33] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///usr/src/app/server.php" language="PHP" xdebug:language_version="7.4.11" protocol_version="1.0" appid="33"><engine version="3.0.3"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[33] [Step Debug] <- breakpoint_list -i 1
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="1"></response>
+
+[33] [Step Debug] <- breakpoint_list -i 2
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="2"></response>
+
+[33] [Step Debug] <- breakpoint_set -i 3 -t line -f file:///git:/Users/daisuke.saito/Documents/tutorial/php-xdebug-phpfm/src/index.php%3F%257B%2522path%2522%253A%2522%252FUsers%252Fdaisuke.saito%252FDocuments%252Ftutorial%252Fphp-xdebug-phpfm%252Fsrc%252Findex.php%2522%252C%2522ref%2522%253A%2522HEAD%2522%257D -n 2
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="3" id="330001"></response>
+
+[33] [Step Debug] <- breakpoint_set -i 4 -t line -f file:///usr/src/app/routes/web.php -n 17
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="4" id="330002"></response>
+
+[33] [Step Debug] <- breakpoint_list -i 5
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="5"><breakpoint type="line" filename="file:///git:/Users/daisuke.saito/Documents/tutorial/php-xdebug-phpfm/src/index.php%3F%257B%2522path%2522%253A%2522%252FUsers%252Fdaisuke.saito%252FDocuments%252Ftutorial%252Fphp-xdebug-phpfm%252Fsrc%252Findex.php%2522%252C%2522ref%2522%253A%2522HEAD%2522%257D" lineno="2" state="enabled" hit_count="0" hit_value="0" id="330001"></breakpoint
+[33] [Step Debug] <- breakpoint_list -i 6
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="6"><breakpoint type="line" filename="file:///git:/Users/daisuke.saito/Documents/tutorial/php-xdebug-phpfm/src/index.php%3F%257B%2522path%2522%253A%2522%252FUsers%252Fdaisuke.saito%252FDocuments%252Ftutorial%252Fphp-xdebug-phpfm%252Fsrc%252Findex.php%2522%252C%2522ref%2522%253A%2522HEAD%2522%257D" lineno="2" state="enabled" hit_count="0" hit_value="0" id="330001"></breakpoint
+[33] [Step Debug] <- breakpoint_set -i 7 -t exception -x *
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="7" id="330003"></response>
+
+[33] [Step Debug] <- run -i 8
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="8" status="break" reason="ok"><xdebug:message filename="file:///usr/src/app/routes/web.php" lineno="17"></xdebug:message></response>
+
+[33] [Step Debug] <- stack_get -i 9
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="9"><stack where="Illuminate\Routing\RouteFileRegistrar-&gt;{closure:/usr/src/app/routes/web.php:16-18}" level="0" type="file" filename="file:///usr/src/app/routes/web.php" lineno="17"></stack><stack where="Illuminate\Routing\Route-&gt;runCallable" level="1" type="file" filename="file:///usr/src/app/vendor/laravel/framework/src/Illuminate/Routing/Route.php" lineno="225"></stack><st
+[33] [Step Debug] <- context_names -i 10 -d 0
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="10"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[33] [Step Debug] <- context_get -i 11 -d 0 -c 0
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="11" context="0"><property name="$this" fullname="$this" type="object" classname="Illuminate\Routing\RouteFileRegistrar" children="1" numchildren="1" page="0" pagesize="32"><property name="router" fullname="$this-&gt;router" facet="protected" type="object" classname="Illuminate\Routing\Router" children="1" numchildren="13"></property></property></response>
+
+[33] [Step Debug] <- run -i 12
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="12" status="stopping" reason="ok"></response>
+
+[33] [Step Debug] <- stop -i 13
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="13" status="stopped" reason="ok"></response>
+
+[33] Log closed at 2021-03-13 01:53:04.212320
+
+[33] Log opened at 2021-03-13 01:53:04.360063
+[33] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[33] [Step Debug] INFO: Connected to debugging client: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port). :-)
+[33] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///usr/src/app/server.php" language="PHP" xdebug:language_version="7.4.11" protocol_version="1.0" appid="33"><engine version="3.0.3"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[33] [Step Debug] <- breakpoint_list -i 1
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="1"></response>
+
+[33] [Step Debug] <- breakpoint_list -i 2
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="2"></response>
+
+[33] [Step Debug] <- breakpoint_set -i 3 -t line -f file:///git:/Users/daisuke.saito/Documents/tutorial/php-xdebug-phpfm/src/index.php%3F%257B%2522path%2522%253A%2522%252FUsers%252Fdaisuke.saito%252FDocuments%252Ftutorial%252Fphp-xdebug-phpfm%252Fsrc%252Findex.php%2522%252C%2522ref%2522%253A%2522HEAD%2522%257D -n 2
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="3" id="330004"></response>
+
+[33] [Step Debug] <- breakpoint_set -i 4 -t line -f file:///usr/src/app/routes/web.php -n 17
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="4" id="330005"></response>
+
+[33] [Step Debug] <- breakpoint_list -i 5
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="5"><breakpoint type="line" filename="file:///usr/src/app/routes/web.php" lineno="17" state="enabled" hit_count="0" hit_value="0" id="330005"></breakpoint><breakpoint type="line" filename="file:///git:/Users/daisuke.saito/Documents/tutorial/php-xdebug-phpfm/src/index.php%3F%257B%2522path%2522%253A%2522%252FUsers%252Fdaisuke.saito%252FDocuments%252Ftutorial%252Fphp-xdebug-phpf
+[33] [Step Debug] <- breakpoint_list -i 6
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="6"><breakpoint type="line" filename="file:///usr/src/app/routes/web.php" lineno="17" state="enabled" hit_count="0" hit_value="0" id="330005"></breakpoint><breakpoint type="line" filename="file:///git:/Users/daisuke.saito/Documents/tutorial/php-xdebug-phpfm/src/index.php%3F%257B%2522path%2522%253A%2522%252FUsers%252Fdaisuke.saito%252FDocuments%252Ftutorial%252Fphp-xdebug-phpf
+[33] [Step Debug] <- breakpoint_set -i 7 -t exception -x *
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="7" id="330006"></response>
+
+[33] [Step Debug] <- run -i 8
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="8" status="stopping" reason="ok"></response>
+
+[33] [Step Debug] <- stop -i 9
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="9" status="stopped" reason="ok"></response>
+
+[33] Log closed at 2021-03-13 01:53:04.407434
+
