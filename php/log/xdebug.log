@@ -1,0 +1,50 @@
+[8] Log opened at 2021-03-13 00:56:10.508800
+[8] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[8] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2021-03-13 00:56:10.521335
+
+[9] Log opened at 2021-03-13 00:56:10.780596
+[9] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[9] [Step Debug] WARN: Creating socket for 'host.docker.internal:10903', poll success, but error: Operation in progress (29).
+[9] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port) :-(
+[9] Log closed at 2021-03-13 00:56:10.804336
+
+[8] Log opened at 2021-03-13 00:56:30.922509
+[8] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:10903.
+[8] [Step Debug] INFO: Connected to debugging client: host.docker.internal:10903 (through xdebug.client_host/xdebug.client_port). :-)
+[8] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///usr/src/app/index.php" language="PHP" xdebug:language_version="8.0.1" protocol_version="1.0" appid="8"><engine version="3.0.3"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[8] [Step Debug] <- breakpoint_list -i 1
+[8] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="1"></response>
+
+[8] [Step Debug] <- breakpoint_set -i 2 -t line -f file:///usr/src/app/index.php -n 2
+[8] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="2" id="80001"></response>
+
+[8] [Step Debug] <- breakpoint_list -i 3
+[8] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="3"><breakpoint type="line" filename="file:///usr/src/app/index.php" lineno="2" state="enabled" hit_count="0" hit_value="0" id="80001"></breakpoint></response>
+
+[8] [Step Debug] <- breakpoint_list -i 4
+[8] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="4"><breakpoint type="line" filename="file:///usr/src/app/index.php" lineno="2" state="enabled" hit_count="0" hit_value="0" id="80001"></breakpoint></response>
+
+[8] [Step Debug] <- breakpoint_set -i 5 -t exception -x *
+[8] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="5" id="80002"></response>
+
+[8] [Step Debug] <- run -i 6
+[8] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="6" status="break" reason="ok"><xdebug:message filename="file:///usr/src/app/index.php" lineno="2"></xdebug:message></response>
+
+[8] [Step Debug] <- stack_get -i 7
+[8] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="7"><stack where="{main}" level="0" type="file" filename="file:///usr/src/app/index.php" lineno="2"></stack></response>
+
+[8] [Step Debug] <- context_names -i 8 -d 0
+[8] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="8"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[8] [Step Debug] <- context_get -i 9 -d 0 -c 0
+[8] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="9" context="0"></response>
+
+[8] [Step Debug] <- breakpoint_list -i 10
+[8] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_list" transaction_id="10"><breakpoint type="line" filename="file:///usr/src/app/index.php" lineno="2" state="enabled" hit_count="1" hit_value="0" id="80001"></breakpoint><breakpoint type="exception" exception="*" state="enabled" hit_count="0" hit_value="0" id="80002"></breakpoint></response>
+
+[8] [Step Debug] <- breakpoint_remove -i 11 -d 80001
+[8] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_remove" transaction_id="11"><breakpoint type="line" filename="file:///usr/src/app/index.php" lineno="2" state="enabled" hit_count="1" hit_value="0" id="80001"></breakpoint></response>
+
