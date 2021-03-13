@@ -1,4 +1,4 @@
-FROM php:8.0.1-fpm-alpine
+FROM php:7.4.11-fpm-alpine3.12
 
 WORKDIR /usr/src
 
